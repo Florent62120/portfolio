@@ -58,3 +58,16 @@ Identifier les stations les plus économiques pour optimiser les coûts en carbu
 Réduction des dépenses en carburant pour les flottes de camions grâce à une meilleure orientation vers les stations les plus compétitives.
 
 🛠️ Outils utilisés : SQL | Looker Studio | Excel
+
+### Exemples de requêtes SQL réalisées
+- Aggrégation / Jointure / Subquery
+
+![Image](https://github.com/user-attachments/assets/825dd888-6af0-47ad-962c-69beb742a540)
+
+- Détection de clé primaire
+
+![Image](https://github.com/user-attachments/assets/3fc7b1a4-6e90-4898-b255-e6fd4e11b6c4)
+
+- Fonctions de fenêtrage
+
+![Image](https://github.com/user-attachments/assets/115d6755-63b3-45b0-b9a7-1d1ccbcce8b0)
