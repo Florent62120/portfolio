@@ -39,7 +39,13 @@ Analyser et optimiser la performance logistique en explorant des millions de lig
 - Présentation des livrables devant +50 personnes
 
 🛠️ Outils utilisés : Python (Jupyter Notebook) | Power BI | Streamlit | Notion
+- Power BI
 
+![Image](https://github.com/user-attachments/assets/686f2a1e-3e5d-4d48-995e-67815965bc6d)
+![Image](https://github.com/user-attachments/assets/5d34a352-e9d5-4c68-9386-9697cf403a10)
+- Streamlit
+
+![Image](https://github.com/user-attachments/assets/0bfed827-80e1-4a5d-aa48-06510abe91a1)
 
 ### Data Visualisation – Analyse des stations essence les moins chères par région
 
@@ -71,3 +77,12 @@ Réduction des dépenses en carburant pour les flottes de camions grâce à une 
 - Fonctions de fenêtrage
 
 ![Image](https://github.com/user-attachments/assets/115d6755-63b3-45b0-b9a7-1d1ccbcce8b0)
+
+### Exemples de requêtes Python réalisées
+- Prédiction de perte de clients : classification
+
+  https://colab.research.google.com/drive/1MW7cCJa-NPHRUbRWUP32PV6MqKYdVg6K#scrollTo=df02a1b8
+  
+- Prédiction du prix de logements : Regression linéaire
+
+  https://colab.research.google.com/drive/1f15Sqg3azTgazJFtGXebXC0Y-Xv6kvX2
