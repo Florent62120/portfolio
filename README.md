@@ -47,6 +47,44 @@ Analyser et optimiser la performance logistique en explorant des millions de lig
 
 ![Image](https://github.com/user-attachments/assets/0bfed827-80e1-4a5d-aa48-06510abe91a1)
 
+### Data Analysis - Analyse stratégique des ressources humaines
+
+📌 Objectif :
+
+Explorer les données RH de l'entreprise pour identifier les leviers d’amélioration en matière de rétention des talents et de satisfaction des employés. L’objectif était de mieux comprendre les causes de l’attrition et de proposer des pistes d’optimisation RH basées sur des données concrètes.
+
+🔍 Approche & Méthodologie :
+
+🔹 Préparation et structuration des données
+- Nettoyage et formatage des données RH (employés, postes, départements, satisfaction, etc.)
+- Regroupement par dimensions pertinentes : âge, genre, service, diplôme, satisfaction, etc.
+- Gestion des valeurs manquantes
+
+🔹 Analyse exploratoire et statistique
+- Définition et calcul du taux d’attrition global et par sous-groupes (âge, genre, département, formation)
+- Mise en évidence des déséquilibres via des visualisations ciblées
+- Identification de profils à risque à travers des comparaisons croisées et des tests statistiques
+
+🔹 Création d’un dashboard interactif
+- Élaboration d’un dashboard Power BI clair et lisible pour présenter les KPIs clés :
+    • Taux d’attrition global
+    • Répartition par âge, genre, département, diplôme, etc.
+    • Niveau de satisfaction
+    • Analyse croisée de l’attrition par groupe d’âge et par genre
+- Mise en forme intuitive pour une lecture rapide et efficace des insights
+
+🚀 Gestion de projet & communication
+- Travail autonome sur l’ensemble de la chaîne d’analyse (de l’import à la visualisation)
+- Restitution structurée des résultats et recommandations visuelles dans un format professionnel
+
+📈 Résultats & impact
+- Recommandations concrètes basées sur les données (ex : turnover élevé dans les départements R&D et Sales)
+- Outil de pilotage RH permettant une prise de décision rapide et fondée sur les données
+
+🛠️ Outils utilisés : Power BI | Google Sheets
+- Power BI
+
+
 ### Data Visualisation – Analyse des stations essence les moins chères par région
 
 📌 Objectif :
@@ -66,7 +104,7 @@ Réduction des dépenses en carburant pour les flottes de camions grâce à une 
 🛠️ Outils utilisés : SQL | Looker Studio | Excel
 
 ### Exemples de requêtes SQL réalisées
-- Aggrégation / Jointure / Subquery
+- Aggrégation / Jointure / CTE / Subquery
 
 ![Image](https://github.com/user-attachments/assets/825dd888-6af0-47ad-962c-69beb742a540)
 
