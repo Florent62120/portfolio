@@ -67,10 +67,15 @@ Explorer les données RH de l'entreprise pour identifier les leviers d’amélio
 
 🔹 Création d’un dashboard interactif
 - Élaboration d’un dashboard Power BI clair et lisible pour présenter les KPIs clés :
-    • Taux d’attrition global
-    • Répartition par âge, genre, département, diplôme, etc.
-    • Niveau de satisfaction
-    • Analyse croisée de l’attrition par groupe d’âge et par genre
+
+    Taux d’attrition global
+  
+    Répartition par âge, genre, département, diplôme, etc.
+  
+    Niveau de satisfaction
+  
+    Analyse croisée de l’attrition par groupe d’âge et par genre
+  
 - Mise en forme intuitive pour une lecture rapide et efficace des insights
 
 🚀 Gestion de projet & communication
@@ -84,6 +89,7 @@ Explorer les données RH de l'entreprise pour identifier les leviers d’amélio
 🛠️ Outils utilisés : Power BI | Google Sheets
 - Power BI
 
+![Image](https://github.com/user-attachments/assets/5bdb191e-28f9-42d9-8f9d-87476bd0ad8d)
 
 ### Data Visualisation – Analyse des stations essence les moins chères par région
 
